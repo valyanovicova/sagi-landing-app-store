@@ -93,7 +93,7 @@ function GooglePlayBadge() {
 
 const ROLES = [
   {
-    screen: '/user.png',
+    screen: '/profile.png',
     badge: 'Для участника',
     badgeClass: 'bg-[#EEF2FF] text-[#4338CA]',
     title: 'Ваши привилегии',
@@ -106,7 +106,7 @@ const ROLES = [
     ],
   },
   {
-    screen: '/admin.png',
+    screen: '/analytics.png',
     badge: 'Для администратора',
     badgeClass: 'bg-[#EDFAF3] text-[#1E9E5A]',
     title: 'Управляйте сообществом',
@@ -119,7 +119,7 @@ const ROLES = [
     ],
   },
   {
-    screen: '/community.png',
+    screen: '/business.png',
     badge: 'Для бизнеса',
     badgeClass: 'bg-[#FFF7ED] text-[#C2410C]',
     title: 'Будьте ближе к аудитории',
